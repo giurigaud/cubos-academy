@@ -1,0 +1,16 @@
+*{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+img, button{
+    width: 50vw;
+    padding: 1em;
+    align-items: center;
+}
+
+p {
+    color: black;
+    font-size: 2em;
+}
