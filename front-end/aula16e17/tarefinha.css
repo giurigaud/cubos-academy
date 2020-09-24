@@ -1,0 +1,28 @@
+body {
+    margin: 1em;
+    max-width: 50ch;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    margin-top: 1em;
+}
+
+li input {
+    margin-left: auto;
+}
+
+li button {
+    margin-left: auto;
+}
+
+.feitas span{
+    text-decoration:line-through;
+}
